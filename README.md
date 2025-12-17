@@ -33,5 +33,5 @@ Built as part of an internship task to practice input handling, calculations, an
 
 ```bash
 python main.py
-
+```
 Follow the prompts to add stocks and generate your portfolio summary.
